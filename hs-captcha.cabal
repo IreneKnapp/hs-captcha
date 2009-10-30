@@ -13,4 +13,4 @@ synopsis: Generate images suitable for use as CAPTCHAs in online web-form securi
 
 Library
   exposed-modules: Graphics.Captcha
-  build-depends: gd, bytestring, random
+  build-depends: gd, bytestring, random, base
